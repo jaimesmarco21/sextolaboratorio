@@ -1,0 +1,14 @@
+C:\Users\KIRITO RINCON\OneDrive\Documentos\sextolaboratorio\creareljuegodeadivinanzas\obj\Debug\net8.0\creareljuegodeadivinanzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRITO RINCON\OneDrive\Documentos\sextolaboratorio\creareljuegodeadivinanzas\obj\Debug\net8.0\creareljuegodeadivinanzas.AssemblyInfoInputs.cache
+C:\Users\KIRITO RINCON\OneDrive\Documentos\sextolaboratorio\creareljuegodeadivinanzas\obj\Debug\net8.0\creareljuegodeadivinanzas.AssemblyInfo.cs
+C:\Users\KIRITO RINCON\OneDrive\Documentos\sextolaboratorio\creareljuegodeadivinanzas\obj\Debug\net8.0\creareljuegodeadivinanzas.csproj.CoreCompileInputs.cache
+C:\Users\KIRITO RINCON\OneDrive\Documentos\sextolaboratorio\creareljuegodeadivinanzas\bin\Debug\net8.0\creareljuegodeadivinanzas.exe
+C:\Users\KIRITO RINCON\OneDrive\Documentos\sextolaboratorio\creareljuegodeadivinanzas\bin\Debug\net8.0\creareljuegodeadivinanzas.deps.json
+C:\Users\KIRITO RINCON\OneDrive\Documentos\sextolaboratorio\creareljuegodeadivinanzas\bin\Debug\net8.0\creareljuegodeadivinanzas.runtimeconfig.json
+C:\Users\KIRITO RINCON\OneDrive\Documentos\sextolaboratorio\creareljuegodeadivinanzas\bin\Debug\net8.0\creareljuegodeadivinanzas.dll
+C:\Users\KIRITO RINCON\OneDrive\Documentos\sextolaboratorio\creareljuegodeadivinanzas\bin\Debug\net8.0\creareljuegodeadivinanzas.pdb
+C:\Users\KIRITO RINCON\OneDrive\Documentos\sextolaboratorio\creareljuegodeadivinanzas\obj\Debug\net8.0\creareljuegodeadivinanzas.dll
+C:\Users\KIRITO RINCON\OneDrive\Documentos\sextolaboratorio\creareljuegodeadivinanzas\obj\Debug\net8.0\refint\creareljuegodeadivinanzas.dll
+C:\Users\KIRITO RINCON\OneDrive\Documentos\sextolaboratorio\creareljuegodeadivinanzas\obj\Debug\net8.0\creareljuegodeadivinanzas.pdb
+C:\Users\KIRITO RINCON\OneDrive\Documentos\sextolaboratorio\creareljuegodeadivinanzas\obj\Debug\net8.0\creareljuegodeadivinanzas.genruntimeconfig.cache
+C:\Users\KIRITO RINCON\OneDrive\Documentos\sextolaboratorio\creareljuegodeadivinanzas\obj\Debug\net8.0\ref\creareljuegodeadivinanzas.dll
